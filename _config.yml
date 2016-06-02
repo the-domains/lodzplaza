@@ -1,0 +1,14 @@
+layout_spectrum: 0.9922155
+typography_spectrum: 0.3829787
+color:
+  saturation: 0.8361702
+  brandStrength: 0.9423292
+  lightness: 0.9042553
+  rhythmicContrast: 0.9082209
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: Lodzplaza
