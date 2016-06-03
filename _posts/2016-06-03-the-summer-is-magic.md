@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: The Summer is Magic
-datePublished: '2016-06-03T07:37:13.512Z'
-dateModified: '2016-06-03T07:37:05.048Z'
+datePublished: '2016-06-03T07:38:02.767Z'
+dateModified: '2016-06-03T07:37:17.290Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-03-the-summer-is-magic.md
