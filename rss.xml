@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Lodzplaza]]></title>
         <description><![CDATA[Lodzplaza]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/lodzplaza/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 03 Jun 2016 07:33:41 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 03 Jun 2016 07:36:49 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/lodzplaza/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/65b73d4a-e8ab-486a-a53b-acfae534f5b7.jpg">]]></description>
+            <link>https://thegrid.ai/lodzplaza/the-summer-is-magic/index.html</link>
+            <guid isPermaLink="false">fc6782c7-c614-4ce5-9f49-ff30a14fbbbf</guid>
+            <pubDate>Fri, 03 Jun 2016 07:36:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9111d5b6-b3ef-48e4-936b-ff6ea7810e36.jpg">]]></description>
-            <link>undefined61d2e516-bed1-4b19-92b1-5b08c322494b/index.html</link>
+            <link>https://thegrid.ai/lodzplaza/61d2e516-bed1-4b19-92b1-5b08c322494b/index.html</link>
             <guid isPermaLink="false">61d2e516-bed1-4b19-92b1-5b08c322494b</guid>
             <pubDate>Fri, 03 Jun 2016 07:33:40 GMT</pubDate>
         </item>
