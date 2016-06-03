@@ -2,14 +2,16 @@
 inFeed: true
 hasPage: false
 inNav: false
-isBasedOnUrl: null
+isBasedOnUrl: ''
 inLanguage: null
 keywords: []
 description: The Summer is Magic
-datePublished: '2016-06-03T08:08:48.022Z'
-dateModified: '2016-06-03T07:47:57.580Z'
+datePublished: '2016-06-03T09:35:41.102Z'
+dateModified: '2016-06-03T09:32:09.986Z'
 title: ''
-author: []
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-06-03-the-summer-is-magic.md
 authors: []
 publisher: null
